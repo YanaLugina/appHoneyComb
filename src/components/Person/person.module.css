@@ -1,0 +1,8 @@
+.person {
+    display: flex;
+    flex-flow: row wrap
+}
+
+.person div {
+    padding: 0 10px 40px 20px;
+}
